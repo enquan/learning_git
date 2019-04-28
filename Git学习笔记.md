@@ -21,7 +21,7 @@ Git本地仓库包含代码库还有历史库，在本地的环境开发就可�
 
 ## 安装Git
 
-[Git官方下载](https://git-scm.com/downloads>)
+[Git官方下载](https://git-scm.com/downloads)
 
 安装完成后，还需要进行以下设置：
 
